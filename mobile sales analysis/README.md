@@ -34,10 +34,10 @@ of sales data, 4,000+ transactions, and 4 payment methods.
 - **Total Sales** crossed ₹769 Million across all models
 - **iPhone SE** had the highest total sales at ₹59.5M 
   despite not having the highest transaction count
-- **OnePlus Nord** had the highest units sold at 1,409 
+- **Vivo Y51** had the highest units sold at 1,429 
   with 283 transactions
-- **January** recorded the highest monthly units sold 
-  at 1,672 units
+- **March** recorded the highest monthly units sold 
+  at 1,696 units
 - **Saturday** is the strongest sales day — 
   ₹115M vs Wednesday low of ₹105M
 - **UPI** and **Cash** together account for over 50% 
