@@ -13,7 +13,8 @@ of sales data, 4,000+ transactions, and 4 payment methods.
 
 ## 📊 Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+
+<img width="964" height="539" alt="image" src="https://github.com/user-attachments/assets/4cf6d2ec-facb-4e36-81b2-0b22a7e7aaf9" />
 
 ---
 
