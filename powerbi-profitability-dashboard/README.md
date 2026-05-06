@@ -292,8 +292,7 @@ powerbi-profitability-dashboard/
 ├── dax-measures.md                  ← All 27 DAX measures documented
 │
 ├── data/
-│   ├── Orders.csv                   ← Main fact table
-│   └── Date_Table_reference.md      ← Date table DAX for reference
+│   ├── global_superstore_2016.xls                 ← Main fact table
 │
 └── screenshots/
     ├── 01_executive_overview.png
